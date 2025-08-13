@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Deep Learning Project**
 
-- 🌱 I’m currently learning **Deep Learning, Computer Vison**
+- 🌱 I’m currently learning **Deep Learning, Computer Vison, Generative AI**
 
-- 👯 I’m looking to collaborate on **Data Science & Machine Learning**
+- 👯 I’m looking to collaborate on **Data Science & Generative AI projects**
 
 - 📫 How to reach me **adinaththosar450@gmail.com**
 
