@@ -2,9 +2,9 @@
 
 Hi there! I'm a Data Scientist in training, passionate about turning data into intelligent action.
 
-📊 Foundation: Data Analysis, ETL, and Machine Learning, Generative AI, RAG
+📊 Foundation: Data Analysis, ETL, Machine Learning, Generative AI, RAG
 
-🧠 Currently Exploring: Agentic AI, Generative AI, RAG (Retrieval-Augmented Generation), and building autonomous AI Agents.
+🧠 Currently Exploring: MCP, Agentic AI, and building autonomous AI Agents.
 
 🤖 Building with: Python | Flask | Pandas | Scikit-learn | LangChain | LangGraph | Hugging Face Transformers | OpenAI | Gemini
 
