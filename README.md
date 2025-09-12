@@ -10,7 +10,7 @@ Hi there! I'm a Data Scientist in training, passionate about turning data into i
 
 I'm excited to develop and contribute to the next wave of AI-powered applications.
 
-Portfolio : https://adinaththosar03.github.io/portfolio/
+Portfolio : https://adinaththosar03.github.io/Portfolio/
 
 ## My Skills
 
