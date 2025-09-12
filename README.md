@@ -1,6 +1,6 @@
 ## About Me
 
-Hi there! I'm a Data Scientist in training, passionate about turning data into intelligent action.
+Hi there! I'm a Adinath, Building Smart AI powered Solutions & passionate about turning data into intelligent action.
 
 📊 Foundation: Data Analysis, ETL, Machine Learning, Generative AI, RAG
 
