@@ -6,7 +6,7 @@ Hi there! I'm a Adinath, Building Smart AI powered Solutions & passionate about 
 
 🧠 Currently Exploring: MCP, Agentic AI, and building autonomous AI Agents.
 
-🤖 Building with: Python | Flask | Pandas | Scikit-learn | LangChain | LangGraph | Hugging Face Transformers | OpenAI | Gemini
+🤖 Building with: Python | Flask | FastAPI | Pandas | Scikit-learn | LangChain | LangGraph | Hugging Face Transformers | OpenAI | Gemini
 
 I'm excited to develop and contribute to the next wave of AI-powered applications.
 
