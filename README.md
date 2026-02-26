@@ -1,12 +1,12 @@
 ## About Me
 
-Hi there! I'm a Adinath, Building Smart AI powered Solutions & passionate about turning data into intelligent action.
+Hi there! I'm a Adinath, Building Complex Agentic Workflows and AI Powered Applications.
 
 📊 Foundation: Data Analysis, ETL, Machine Learning, Generative AI, RAG
 
 🧠 Currently Exploring: MCP, Agentic AI, and building autonomous AI Agents.
 
-🤖 Building with: Python | Flask | FastAPI | Pandas | Scikit-learn | LangChain | LangGraph | Hugging Face Transformers | OpenAI | Gemini
+🤖 Building with: Python | FastAPI | LangChain | LangGraph | Hugging Face | OpenAI 
 
 I'm excited to develop and contribute to the next wave of AI-powered applications.
 
