@@ -2,13 +2,8 @@
 
 Hi there! I'm a Adinath, Building Complex Agentic Workflows and AI Powered Applications.
 
-📊 Foundation: Data Analysis, ETL, Machine Learning, Generative AI, RAG
-
-🧠 Currently Exploring: MCP, Agentic AI, and building autonomous AI Agents.
-
-🤖 Building with: Python | FastAPI | LangChain | LangGraph | Hugging Face | OpenAI 
-
-I'm excited to develop and contribute to the next wave of AI-powered applications.
+Foundation: Data Analysis, ETL, Machine Learning, Generative AI, RAG
+Stack : FastAPI, FastMCP, LangGraph, LangChain, Docker, Postgres, Git, GCP, LangFuse
 
 Portfolio : https://adinaththosar03.github.io/Portfolio/
 
