@@ -6,6 +6,8 @@ Foundation: Data Analysis, ETL, Machine Learning, Generative AI, RAG
 
 Stack : FastAPI, FastMCP, LangGraph, LangChain, Docker, Postgres, Git, GCP, LangFuse
 
+Email : adinaththosar450@gmail.com
+
 ## My Skills
 
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
