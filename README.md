@@ -3,6 +3,7 @@
 Hi there! I'm a Adinath, Building Complex Agentic Workflows and AI Powered Applications.
 
 Foundation: Data Analysis, ETL, Machine Learning, Generative AI, RAG
+
 Stack : FastAPI, FastMCP, LangGraph, LangChain, Docker, Postgres, Git, GCP, LangFuse
 
 Portfolio : https://adinaththosar03.github.io/Portfolio/
